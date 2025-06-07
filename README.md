@@ -61,14 +61,14 @@ This project is focused on performing **Exploratory Data Analysis (EDA)** on a D
 
 ### 🗺️ State-wise Sales
 
-![State Spend](plots/Amount_Vs_State.png)  
+![State Spend](plots/Orders_Vs_State.png)  
 > **Insight**: UP, Maharashtra and Karnataka recorded the highest sales.
 
 ---
 
 ### 🛒 Top Product Categories
 
-![Top Categories](plots/Product_category_Vs_Total_amount.png)  
+![Top Categories](plots/Product_category_Vs_Orders.png)  
 > **Insight**: Food, Clothing and Electronics were the most purchased categories.
 
 
