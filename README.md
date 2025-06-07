@@ -93,5 +93,8 @@ This project is focused on performing **Exploratory Data Analysis (EDA)** on a D
 
 If you liked this project or want a similar analysis, feel free to reach out:
 
+## 🔗 Featured On LinkedIn
+📢 [View my project announcement post](https://www.linkedin.com/feed/update/urn:li:activity:7337102657079189509/)
+
 📧 sawgatchettri001@gmail.com
  
